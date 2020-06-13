@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    SetConsoleTitleA( "Tick conveter by seba0456" );
+    SetConsoleTitleA( "Tick converter by seba0456" );
     double s;
     double t;
     string instrukcja;
